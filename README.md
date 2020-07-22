@@ -1,5 +1,5 @@
 # Deployment :
-Implemented many different types of deployment Machine Learning Classification sample project.
+Implemented many different types of deployment Machine Learning(NLP) Text  sample project.
 
 ## Follow Me:
  
