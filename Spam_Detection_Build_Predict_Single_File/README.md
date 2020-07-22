@@ -11,10 +11,8 @@
 ### Library Installation :
  -  pip install -r requirements.txt 
 
-### Train the model :
- - python model_build.py
 
-### Predict the model
+### Train the model and Predict the model
  - python app.py
  
 
